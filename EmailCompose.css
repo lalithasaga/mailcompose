@@ -1,0 +1,5 @@
+.compose-email-container {
+    margin-top: 80px; /* Adjust the value as needed */
+    display: flex;
+    justify-content: center;
+  }
